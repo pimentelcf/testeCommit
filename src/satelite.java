@@ -32,6 +32,3 @@ public class satelite {
     }
 }
 
-
-// teste
-// testando da minha maquina local
